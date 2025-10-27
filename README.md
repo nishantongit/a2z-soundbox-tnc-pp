@@ -1,0 +1,60 @@
+Terms & Conditions
+
+App Name: A2z Soundbox
+Company: Coretility
+
+1. Acceptance of Terms
+
+By downloading, installing, or using the A2z Soundbox app (“App”), you agree to be bound by these Terms and Conditions (“Terms”).
+If you do not agree to these Terms, please do not use the App.
+
+2. Description of Service
+
+A2z Soundbox provides audio alerts for UPI and payment-related notifications received on your Android device.
+The App processes your device’s notifications locally to generate real-time voice alerts. No sensitive data such as message content, bank details, or sender information is stored or transmitted externally, except limited anonymous analytics data used to improve app performance and user experience.
+
+3. Eligibility
+
+You must be at least 18 years old or have parental/guardian consent to use this App.
+You are solely responsible for complying with all applicable local, state, and national laws.
+
+4. License and Restrictions
+
+Coretility grants you a limited, non-exclusive, non-transferable, revocable license to use the App for personal use only.
+
+You agree not to:
+
+Reverse engineer, modify, or decompile the App.
+
+Use the App to collect or distribute sensitive user data.
+
+Use the App in any unlawful or unauthorized manner.
+
+5. Payments and Pricing
+
+A2z Soundbox is currently offered free of charge.
+However, Coretility reserves the right to introduce paid features, subscriptions, or in-app purchases in the future. Any changes in pricing will be communicated through official channels (such as the Play Store listing or in-app notifications).
+
+6. Data and Privacy
+
+The App processes notification data locally on your device.
+Anonymous analytics may be collected (e.g., crash reports, feature usage) to improve stability and user experience.
+For full details, refer to our Privacy Policy
+.
+
+7. Disclaimer of Warranties
+
+The App is provided “as is” without warranty of any kind.
+Coretility makes no representations or warranties regarding reliability, availability, or accuracy of the App or that it will be error-free or uninterrupted.
+
+8. Limitation of Liability
+
+Under no circumstances shall Coretility or its affiliates be liable for any direct, indirect, incidental, or consequential damages arising from your use of or inability to use the App.
+
+9. Termination
+
+Coretility reserves the right to suspend or terminate your access to the App at any time without prior notice for violation of these Terms or for maintenance purposes.
+
+10. Modifications
+
+Coretility may modify or update these Terms from time to time. The latest version will always be available on our official website or app listing.
