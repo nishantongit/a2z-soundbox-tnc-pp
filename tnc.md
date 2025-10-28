@@ -1,5 +1,6 @@
 Terms & Conditions
 
+Last Updated: October 25, 2025
 App Name: A2z Soundbox
 Company: Coretility
 
